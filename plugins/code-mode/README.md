@@ -51,7 +51,7 @@ the script, Claude read one line.
 In Claude Code:
 
 ```
-/plugin marketplace add <github-owner>/claude-skills
+/plugin marketplace add upshotconsultancy/claude-skills
 /plugin install code-mode@upshot
 ```
 

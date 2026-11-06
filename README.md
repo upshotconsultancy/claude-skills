@@ -7,7 +7,7 @@ A Claude Code plugin marketplace. Each plugin holds one or more skills and insta
 In Claude Code, add the marketplace once:
 
 ```
-/plugin marketplace add <github-owner>/claude-skills
+/plugin marketplace add upshotconsultancy/claude-skills
 ```
 
 Then install the plugins you want:
