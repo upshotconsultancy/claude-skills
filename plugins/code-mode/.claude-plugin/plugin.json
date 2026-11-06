@@ -1,0 +1,12 @@
+{
+  "name": "code-mode",
+  "description": "Code mode for Claude Code: Claude writes a script that calls your MCP tools, CLIs and APIs and reads only the answer, not every result. Includes mcpx, a bridge that makes any configured MCP server callable from Python.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Upshot Consultancy",
+    "url": "https://upshotconsultancy.com.au"
+  },
+  "homepage": "https://upshotconsultancy.com.au/articles/code-mode",
+  "license": "MIT",
+  "keywords": ["mcp", "tokens", "code-mode", "cost"]
+}

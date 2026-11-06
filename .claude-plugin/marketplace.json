@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "upshot",
+  "description": "Claude Code skills from Upshot Consultancy.",
+  "owner": {
+    "name": "Upshot Consultancy",
+    "url": "https://upshotconsultancy.com.au"
+  },
+  "plugins": [
+    {
+      "name": "code-mode",
+      "description": "Claude writes a script that calls your MCP tools, CLIs and APIs and reads only the answer, not every result.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Upshot Consultancy"
+      },
+      "category": "productivity",
+      "source": "./plugins/code-mode",
+      "homepage": "https://upshotconsultancy.com.au/articles/code-mode"
+    }
+  ]
+}
